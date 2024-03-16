@@ -1,1 +1,1 @@
-# This is Carrom Design Code.
+# This is Game Design Code.
